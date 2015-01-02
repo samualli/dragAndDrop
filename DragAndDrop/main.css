@@ -1,3 +1,9 @@
+@import url(http://fonts.googleapis.com/css?family=Indie+Flower);
+
 body{
    background-color: #000;
+}
+p{
+   font-color: #fff;
+   font-family: 'Indie Flower', serif;
 }
